@@ -61,5 +61,5 @@ roman.reduce(function (prev_val, current, currentIndex) {
 
   return value;
 
-},null);
+},null); // Need to pass something
 console.log(decimal);
